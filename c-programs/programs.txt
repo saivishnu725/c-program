@@ -1,0 +1,11 @@
+				PART A 
+1.  Area and circumference of circle.
+2.  Largest of 3 numbers.
+3.  Demonstrate functions in math.h 
+4.  Check for prime number.
+5.  Program to generate n prime numbers.
+6.  Sum of digits and reverse the number and check if it is palindrome or not.
+7.  Read until 999 and add +ve numbers.
+8.  Demonstrate else if ladder by accepting percentage.
+9.  Roots of Quadratic equation.
+10. 1D array.
